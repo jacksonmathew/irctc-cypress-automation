@@ -64,19 +64,19 @@
 > ```
 ```
 {
-  "TRAIN_NO": "12318",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "TRAIN_NO": "12626",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "20/04/2024",
+  "SOURCE_STATION": "GWL",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
-  "DESTINATION_STATION": "BSB",
+  "DESTINATION_STATION": "CGY",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "7697919855@paytm",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "SHIVAM PANDEY",
-      "AGE": 25,
+      "NAME": "JACKSON MATHEW",
+      "AGE": 23,
       "GENDER": "Male",
       "SEAT": "Side Upper",
       "FOOD" "No Food"
@@ -147,8 +147,8 @@
 
 ```
 {
-    "USERNAME": "yourusername",
-    "PASSWORD": "yourpassword",
+    "USERNAME": "jackson0mathew",
+    "PASSWORD": "Jack@786",
     "MANUAL_CAPTCHA": false
 }
 ```
