@@ -147,8 +147,8 @@
 
 ```
 {
-    "USERNAME": "jackson0mathew",
-    "PASSWORD": "Jack@786",
+    "USERNAME": "username",
+    "PASSWORD": "password",
     "MANUAL_CAPTCHA": false
 }
 ```
